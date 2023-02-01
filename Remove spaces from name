@@ -1,0 +1,9 @@
+# Remove spaces from a name
+
+> In a new column 
+
+> type clean name
+
+> next line type =trim(column*row)(D5)
+
+>TRIM() removes any extra spaces from beginning,middle or end.
