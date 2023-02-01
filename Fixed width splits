@@ -4,4 +4,19 @@
 # Splitting cost centre & ID numbers
 
 
-> 
+> Select the Emp ID (Ctrl + Shift + downarrow)
+
+
+> Eg : PR00147
+
+> PR = Cost Centre  00147 = Employee number
+
+> Data -> Text to Column -> Fixed width -> split Em p ID
+
+> Text -> Text -> IE 
+
+> Text -> Text -> General 
+
+> Finish
+
+> It shows the cost centre emp and Id number Id in two seperate coloumns.
