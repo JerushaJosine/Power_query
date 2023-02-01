@@ -6,4 +6,4 @@
 
 > next line type =trim(column*row)(D5)
 
->TRIM() removes any extra spaces from beginning,middle or end.
+> =TRIM() removes any extra spaces from beginning,middle or end.
