@@ -1,0 +1,11 @@
+# Text to Column
+
+
+>  To select the whole column press Ctrl + Shift + downarrow
+
+
+> To convert the text to column 
+
+> Go to Data  -> Delimited -> comma -> General  -> Finish
+
+> It will convert the data into two seperate columns.
