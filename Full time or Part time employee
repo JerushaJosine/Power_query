@@ -1,0 +1,12 @@
+# Full time or Part time employee
+
+> FTE = 1 means Full-time employee
+
+> FTE < 1 means part-time employee
+
+In a new column Full / Part Employee
+
+> =IF(logical_test,[Value_if_true],[Value_if_false])
+
+>  eg:  =IF(I8<1,"Part time", "Full time")
+
